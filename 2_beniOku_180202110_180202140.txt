@@ -1,0 +1,3 @@
+İlk başta kullanıcı XAMPP uygulamasını bilgisayarına yüklemelidir.Bu uygulamada netbeans ve MySql butonunu start etmelidir.Daha sonra admin kısmına tıklamalıdır.
+Açılan phpmyadmin sayfasına veritabanları adlı bir database oluşturup rar dosyasının içindeki veritabanlar__ .sql uzantılı dosyayı içe  aktar yazısına tıklayıp bu dosyayı seçip içe aktarmalıdır.
+NETFLIX.exe uygulamasını kendi bilgisayarına indirdikten sonra XAMPP de netbeans ve mysql çalışıyorken bizim oluşturduğumuz netflix uygulamasını dilediği gibi kullanabilir.
